@@ -1,0 +1,3 @@
+0.0,5,files/uploads/02149465qlrmHxZOrRLOxhT/tmpzGVO2N.jpg
+29.8496231131986,1,2_1.JPG
+31.0,2,4_1.JPG

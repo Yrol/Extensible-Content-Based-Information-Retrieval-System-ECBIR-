@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">&quot;Museum Guide&quot;</string>
+    <string name="slogan"></string>
+    <string name="app_name">Museum Guide</string>
+    <string name="take_picture_button">Use Camera</string>
+    <string name="choose_picture_button">Use Gallery</string>
+    <string name="share_button">Share!</string>
+    <string name="delete_button">Delete</string>
+    <string name="go_button">Submit</string>
+    <string name="spinner_prompt">Select a transformation…</string>
+    <string-array name="transformations_array">
+        <item>Invert</item>
+        <item>Grab Edges</item>
+        <item>8-bit</item>
+		<item>Tv</item>
+		<item>WANTED</item>
+    </string-array>
+
+</resources>
