@@ -1,0 +1,2 @@
+# Extensible-Content-Based-Information-Retrieval-System-ECBIR-
+ Extensible Content Based Information Retrieval System (ECBIR) which enable the users to retrieve information of images by comparing features of the query images. The query images will be submitted to a backend interface via an Android based mobile device. The knowledge base of the system can be extended through both backend and front-end portals. 
